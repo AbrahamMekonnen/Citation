@@ -22,8 +22,8 @@ Using CitationEase is intuitive and efficient:
 4. Tap the "Generate Citation" button.
 5. Instantly view the properly formatted citation on your screen.
 
-Customization:
-CitationEase offers personalized citation options:
+### Customization:
+Citation offers personalized citation options:
 
 1. While adhering to MLA and APA standards, you can customize specific citation details to suit your requirements.
 2. Adjust certain elements such as author name format, publication year placement, and more.
