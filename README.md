@@ -1,4 +1,4 @@
-# CitationEase: Your Book Citation App
+# Citation App
 
 ### Description:
 CitationEase is your comprehensive solution for effortlessly creating accurate MLA and APA style citations for books. Tailored for Android devices, this app is your companion in streamlining the citation process, making it an indispensable tool for students, researchers, and anyone who values precise citation practices.
